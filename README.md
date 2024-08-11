@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FrankieIsAFish
+- 👀 I’m interested in: Python
+- 🌱 I’m currently learning: OOP
+- 📫 How to reach me: rilstar999@gmail.com
+- ⚡ Fun fact: I like fish
