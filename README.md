@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrankieIsAFish
-- 👀 I’m interested in: Python
-- 🌱 I’m currently learning: OOP
+- 👀 I’m interested in: Learning full-stack
+- 🌱 I’m currently learning: C# & Unity
 - 📫 How to reach me: rilstar999@gmail.com
-- ⚡ Fun fact: I like fish
+- ⚡ Fun fact: C# is better than C++
