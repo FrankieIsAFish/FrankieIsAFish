@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @FrankieIsAFish
-- 👀 I’m interested in: Learning full-stack
-- 🌱 I’m currently learning: C# & Unity
-- 📫 How to reach me: rilstar999@gmail.com
+Languages:
+Python (Intermediate)
+HTML (Intermediate)
+C# (Basic)
+
+Contact me at @rilstar999@gmail.com
